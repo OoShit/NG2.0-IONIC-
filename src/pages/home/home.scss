@@ -1,0 +1,32 @@
+page-home {
+	.HomeContent{
+		h3{
+			margin:0;
+			margin-bottom:8px;
+			border-bottom: 1px solid #BCBCBC;
+			box-shadow:0 1px #D8D8D8;
+		}
+		.HomeGrid{
+			text-align: center;
+			height:width;
+			border:1px solid #939393;
+			margin:5px;
+			padding:0 5px;
+			button{
+				height:100%;
+				text-align: center;
+				.item-inner{
+					border:none;
+					.box{
+						margin:20px auto;
+					}
+				}
+				
+
+			}
+
+		}
+
+	}
+	
+}
